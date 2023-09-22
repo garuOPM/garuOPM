@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @garuOPM
+- 👀 I’m interested in GATEWAYS
+- 🌱 I’m currently learning communication with Lora
+- 💞️ I’m looking to collaborate on Communication with TTN
+- 📫 How to reach me, you can write me in the forum
+- I speak Spanish
